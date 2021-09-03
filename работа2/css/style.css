@@ -1,0 +1,226 @@
+* {
+    font-family: 'Oswald', sans-serif;
+    margin: 0px 0px;
+    box-sizing: border-box;
+}
+.container {
+    max-width: 1500px;
+    margin-left: 144px;
+    align-items: center;
+    justify-content: space-between;
+}
+.header {
+    padding-top: 22px;
+}
+.header_block {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header_logo {
+    display: flex;
+    align-items: center;
+}
+.header_title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 37px;
+    text-transform: uppercase;
+    color: #333333;
+    padding-left: 12px;
+}
+.header_others {
+    display: flex;
+}
+.others_title {
+    font-family: 'Prompt', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 23px;
+    color: #219653;
+    padding-left: 20px;
+}
+.header_tel {
+    display: flex;
+    
+}
+.header_tel_text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 23px;
+    text-decoration-line: underline;
+    color: #219653;
+    font-family: 'Prompt', sans-serif;
+}
+.tel {
+    padding-left: 40px;
+}
+.header_tel_number {
+    font-weight: 900;
+    font-size: 17px;
+    line-height: 20px;
+    color: #333333;
+    text-decoration-line: none;
+    padding-left: 10px;
+}
+.hero_section {
+    padding-top: 92px;
+}
+.hero_main {
+    display: flex;
+}
+.hero_title {
+    padding-left: 20px;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #333333;
+}
+.hero_subtitle {
+    font-family: 'Prompt', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 172%;
+    color: #333333;
+    padding-top: 45px;
+}
+.client_promo {
+    display: flex;
+    padding-top: 100px;
+}
+.clients_title {
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #333333;
+    padding-left: 20px;
+}
+.clients_cards {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 62px;
+}
+.clients_text {
+    font-family: 'Prompt', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+    padding-top: 24px;
+}
+.values {
+    background: rgba(33, 150, 83, 0.03);
+    margin-top: 139px;
+}
+.value_promo {
+    display: flex;
+    padding-top: 100px;
+}
+.value_title {
+    font-family: 'Oswald', sans-serif;
+    padding-left: 20px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #333333;
+}
+.value_hero {
+    display: flex;
+    padding-top: 45px;
+}
+.value_subtitle {
+    font-family: 'Prompt', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 172%;
+    color: #333333;
+}
+.value_photo {
+    padding-left: 69px;
+    padding-bottom: 100px;
+}
+.trust {
+    padding-top: 118px;
+}
+.trust_promo {
+    display: flex;
+    align-items: center; 
+}
+.trust_title {
+    padding-left: 20px;
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 50px;
+    text-align: center;
+    text-transform: uppercase;  
+    color: #333333;  
+}
+.trust_cards {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 45px;
+}
+.trust_subtitle {
+    text-align: center;
+    padding-top: 36px;
+    font-family: 'Prompt', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 172%;
+    color: #333333;
+}
+.examples {
+    padding-top: 118px;
+}
+.examples_promo {
+    display: flex;
+    align-items: center;
+}
+.examples_title {
+    padding-left: 20px;
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #333333;
+}
+.examples_cards {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 45px;
+}
+.example_subtitle {
+    text-align: center;
+    font-family: 'Prompt', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #000000;
+    padding-top: 43px;
+    padding-bottom: 70px;
+}
